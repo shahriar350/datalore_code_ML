@@ -1,0 +1,6 @@
+datalore-env-format-version: "0.2"
+datalore-package-manager: "pip"
+datalore-base-env: "default"
+dependencies:
+- pip:
+  - surprise==0.1
